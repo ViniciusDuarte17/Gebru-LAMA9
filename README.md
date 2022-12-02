@@ -37,7 +37,7 @@ O LAMA, Labenu Musical Awards, um festival  com várias bandas famosas. A ideia 
  Clone o projeto
 
 ```bash
-git clone https://github.com/ViniciusDuarte17/Desafio_shopper.git
+git clone https://github.com/ViniciusDuarte17/Gebru-LAMA9.git
 ```
 Instale as dependências
 
@@ -49,11 +49,6 @@ npm install
 Criar o arquivo .env no back-end
 ```
 
-Criar migrations
-
-```
-npm run migrations
-```
 Inicie o servidor
 
 ```
@@ -63,6 +58,9 @@ npm run dev
  ### Documentação
 
 [Documentação](https://bit.ly/documenter-lama)
+```
+BASE_URL DO BACK-END: https://shopper-connection.herokuapp.com
+```
 
 ## Autor
 
