@@ -59,7 +59,7 @@ npm run dev
 
 [Documentação](https://bit.ly/documenter-lama)
 ```
-BASE_URL DO BACK-END: https://shopper-connection.herokuapp.com
+BASE_URL DO BACK-END: https://festival-lama.herokuapp.com
 ```
 
 ## Autor
