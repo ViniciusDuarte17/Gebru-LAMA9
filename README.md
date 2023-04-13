@@ -71,5 +71,3 @@ BASE_URL DO BACK-END: https://festival-lama.herokuapp.com
  <sub><b>Vinicius Duarte</b></sub></a> <a href="https://github.com/ViniciusDuarte17">👩🏻‍💻</a></td>
  </tr>
 </table>
-
-<a href="#top">Voltar para o topo 🔝</a>
